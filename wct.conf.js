@@ -16,7 +16,7 @@ module.exports = {
         {
           "browserName": "chrome",
           "platform": "OS X 10.10",
-          "version": "49"
+          "version": "48"
         } ,
         {
           "browserName": "firefox",
